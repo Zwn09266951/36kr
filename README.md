@@ -1,6 +1,7 @@
 # myfirstprodoct
 
 > A Vue.js project
+> 我的第一个vue Demo 
 
 ## Build Setup
 

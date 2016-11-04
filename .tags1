@@ -4,3 +4,11 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
+myfirstprodoct	/Users/zwnIscp/Desktop/myfirstprodoct/README.md	/^# myfirstprodoct$/;"	function	line:1
+Build Setup	/Users/zwnIscp/Desktop/myfirstprodoct/README.md	/^## Build Setup$/;"	function	line:6
+install dependencies	/Users/zwnIscp/Desktop/myfirstprodoct/README.md	/^# install dependencies$/;"	function	line:9
+serve with hot reload at localhost:8080	/Users/zwnIscp/Desktop/myfirstprodoct/README.md	/^# serve with hot reload at localhost:8080$/;"	function	line:12
+build for production with minification	/Users/zwnIscp/Desktop/myfirstprodoct/README.md	/^# build for production with minification$/;"	function	line:15
+run unit tests	/Users/zwnIscp/Desktop/myfirstprodoct/README.md	/^# run unit tests$/;"	function	line:18
+run e2e tests	/Users/zwnIscp/Desktop/myfirstprodoct/README.md	/^# run e2e tests$/;"	function	line:21
+run all tests	/Users/zwnIscp/Desktop/myfirstprodoct/README.md	/^# run all tests$/;"	function	line:24
