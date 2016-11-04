@@ -1,0 +1,15 @@
+html	/Users/zwnIscp/Desktop/myfirstprodoct/index.html	/^<html>$/;"	function	line:2
+head	/Users/zwnIscp/Desktop/myfirstprodoct/index.html	/^  <head>$/;"	function	line:3
+meta	/Users/zwnIscp/Desktop/myfirstprodoct/index.html	/^    <meta charset="utf-8">$/;"	function	line:4
+title	/Users/zwnIscp/Desktop/myfirstprodoct/index.html	/^    <title>myfirstprodoct<\/title>$/;"	function	line:5
+body	/Users/zwnIscp/Desktop/myfirstprodoct/index.html	/^  <body>$/;"	function	line:7
+div	/Users/zwnIscp/Desktop/myfirstprodoct/index.html	/^    <div id="app"><\/div>$/;"	function	line:8
+script	/Users/zwnIscp/Desktop/myfirstprodoct/index.html	/^    <script src="http:\/\/apps.bdimg.com\/libs\/jquery\/2.1.1\/jquery.min.js" charset="utf-8"><\/script>$/;"	function	line:10
+script	/Users/zwnIscp/Desktop/myfirstprodoct/index.html	/^    <script src="https:\/\/cdn.rawgit.com\/abdmob\/x2js\/master\/xml2json.js" charset="utf-8"><\/script>$/;"	function	line:11
+const.template	/Users/zwnIscp/Desktop/myfirstprodoct/src/main.js	/^const User = {$/;"	property	line:13
+const.template	/Users/zwnIscp/Desktop/myfirstprodoct/src/main.js	/^const UserHome = { template: '<div>Home<\/div>' }$/;"	property	line:17
+const.template	/Users/zwnIscp/Desktop/myfirstprodoct/src/main.js	/^const UserProfile = { template: '<div>Profile<\/div>' }$/;"	property	line:18
+const.template	/Users/zwnIscp/Desktop/myfirstprodoct/src/main.js	/^const UserPosts = { template: '<div>Posts<\/div>' }$/;"	property	line:19
+const.template	/Users/zwnIscp/Desktop/myfirstprodoct/src/main.js	/^const foo = { template: '<div>foo<\/div>' }$/;"	property	line:21
+const.template	/Users/zwnIscp/Desktop/myfirstprodoct/src/main.js	/^const bar = { template: '<div>Bar<\/div>' }$/;"	property	line:22
+const.template	/Users/zwnIscp/Desktop/myfirstprodoct/src/main.js	/^const baz = { template: '<div>Baz<\/div>' }$/;"	property	line:23
