@@ -24,7 +24,6 @@
 
     </ul>
 
-    <!-- <button type="button" name="button" v-on:click="showData"></button> -->
   </div>
 </template>
 
